@@ -9,3 +9,6 @@ https://archive.codeplex.com/?p=clraddins
 
 
 http://jsfiddle.net/gc2t8o5t/
+
+https://www.christianengvall.se/electron-windows-installer/
+https://www.christianengvall.se/electron-packager-tutorial/
