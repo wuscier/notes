@@ -14,3 +14,5 @@ https://www.christianengvall.se/electron-windows-installer/
 https://www.christianengvall.se/electron-packager-tutorial/
 
 https://docs.microsoft.com/en-us/windows/uwp/porting/desktop-to-uwp-run-desktop-app-converter
+
+https://docs.microsoft.com/en-us/windows/uwp/porting/desktop-to-uwp-packaging-dot-net
