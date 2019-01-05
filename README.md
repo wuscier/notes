@@ -12,3 +12,5 @@ http://jsfiddle.net/gc2t8o5t/
 
 https://www.christianengvall.se/electron-windows-installer/
 https://www.christianengvall.se/electron-packager-tutorial/
+
+https://docs.microsoft.com/en-us/windows/uwp/porting/desktop-to-uwp-run-desktop-app-converter
