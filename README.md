@@ -18,7 +18,7 @@ https://docs.microsoft.com/en-us/windows/uwp/porting/desktop-to-uwp-run-desktop-
 https://docs.microsoft.com/en-us/windows/uwp/porting/desktop-to-uwp-packaging-dot-net
 
 
- electron-windows-store --input-directory C:\workspace\learn-electron\app\music-player-demo --output-directory C:\workspace\learn-electron\app\output --package-version 1.0.0.0 --package-name MusicPlayerDemo --dev-cert=C:\workspace\learn-electron\app --windows-kit="C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x64" --publisher CN=wuxu --publisher-display-name wuxu
+electron-windows-store --input-directory C:\workspace\learn-electron\app\music-player-demo --output-directory C:\workspace\learn-electron\app\output1 --package-version 1.0.0.0 --package-name HuaweiMusicPlayer --dev-cert=C:\workspace\learn-electron\app\HuaweiMusicPlayer.pfx --windows-kit="C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x64" --publisher CN=2A3E0832-3665-42AF-A58D-1E3677F31851 --publisher-display-name "Huawei Technologies Co., Ltd." --identity-name HuaweiPC.HuaweiMusicPlayer 
 
 
 https://www.electron.build/configuration/appx
