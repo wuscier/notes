@@ -21,3 +21,6 @@ https://docs.microsoft.com/en-us/windows/uwp/porting/desktop-to-uwp-packaging-do
  electron-windows-store --input-directory C:\workspace\learn-electron\app\music-player-demo --output-directory C:\workspace\learn
 -electron\app\output --package-version 1.0.0.0 --package-name MusicPlayerDemo --dev-cert=C:\workspace\learn-electron\app --windows-kit="C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\
 x64" --publisher CN=wuxu --publisher-display-name wuxu
+
+
+https://www.electron.build/configuration/appx
