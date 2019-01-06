@@ -24,3 +24,6 @@ x64" --publisher CN=wuxu --publisher-display-name wuxu
 
 
 https://www.electron.build/configuration/appx
+
+https://aka.ms/converterimages 
+https://aka.ms/converter
