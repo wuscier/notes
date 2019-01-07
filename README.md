@@ -25,3 +25,8 @@ https://www.electron.build/configuration/appx
 
 https://aka.ms/converterimages 
 https://aka.ms/converter
+
+# html progress bar
+https://codepen.io/anon/pen/rovPYd
+https://gist.github.com/WeiChiaChang/abe92ca2e8da86ef69560b63903e8764
+https://codepen.io/whqet/pen/hfDzp
