@@ -30,3 +30,6 @@ https://aka.ms/converter
 https://codepen.io/anon/pen/rovPYd
 https://gist.github.com/WeiChiaChang/abe92ca2e8da86ef69560b63903e8764
 https://codepen.io/whqet/pen/hfDzp
+
+# uwp window customization
+https://docs.microsoft.com/en-us/windows/uwp/design/shell/title-bar
