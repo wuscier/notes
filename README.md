@@ -41,3 +41,10 @@ https://moderncpp.com/
 https://github.com/NodeRT/NodeRT
 https://github.com/NodeRT/NodeRT/blob/master/MODULE_CREATION.md
 https://github.com/NodeRT/NodeRT#nodert-and-electron
+
+# windows runtime api & C++/WRT
+https://www.i-programmer.info/news/177-windows-8/10206-microsoft-cwinrt-.html
+https://moderncpp.com/2016/10/13/cppwinrt-available-on-github/
+https://github.com/microsoft/cppwinrt
+https://www.i-programmer.info/programming/winrt/3172-building-and-using-winrt-components.html
+https://docs.microsoft.com/en-us/windows/uwp/cpp-and-winrt-apis/
