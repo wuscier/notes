@@ -33,3 +33,11 @@ https://codepen.io/whqet/pen/hfDzp
 
 # uwp window customization
 https://docs.microsoft.com/en-us/windows/uwp/design/shell/title-bar
+
+
+# electron calls windows runtime api
+https://books.google.com/books?id=B0IwDwAAQBAJ&pg=PA241&lpg=PA241&dq=electron+winrt&source=bl&ots=YpfFFiz5KB&sig=T0kTBM1auFQEegkGHthDHBOFNoI&hl=en&sa=X&ved=2ahUKEwiy1_eS7-DfAhWxOn0KHeO-Dn0Q6AEwCXoECAEQAQ#v=onepage&q=electron%20winrt&f=false
+https://moderncpp.com/
+https://github.com/NodeRT/NodeRT
+https://github.com/NodeRT/NodeRT/blob/master/MODULE_CREATION.md
+https://github.com/NodeRT/NodeRT#nodert-and-electron
