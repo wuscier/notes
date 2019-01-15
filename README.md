@@ -48,3 +48,8 @@ https://moderncpp.com/2016/10/13/cppwinrt-available-on-github/
 https://github.com/microsoft/cppwinrt
 https://www.i-programmer.info/programming/winrt/3172-building-and-using-winrt-components.html
 https://docs.microsoft.com/en-us/windows/uwp/cpp-and-winrt-apis/
+
+
+# nodejs & cpp
+https://github.com/node-ffi/node-ffi
+https://github.com/nodejs/node-gyp
