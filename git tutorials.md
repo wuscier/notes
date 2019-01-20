@@ -16,4 +16,6 @@ to give up untracked changes[will remove newly added files!!!] and go back to la
   # git diff e690 a8w3
   compare two commits
   
-  
+  # summary
+  ![git command 1](https://github.com/wuscier/notes/blob/master/git%20command1.png)
+
