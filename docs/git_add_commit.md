@@ -17,5 +17,5 @@ to give up untracked changes[will remove newly added files!!!] and go back to la
   compare two commits
   
   # summary
-  ![git command 1](https://github.com/wuscier/notes/blob/master/git%20command1.png)
+  ![git add commit](https://github.com/wuscier/notes/blob/master/imgs/add_commit.png)
 
