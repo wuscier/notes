@@ -53,3 +53,7 @@ https://docs.microsoft.com/en-us/windows/uwp/cpp-and-winrt-apis/
 # nodejs & cpp
 https://github.com/node-ffi/node-ffi
 https://github.com/nodejs/node-gyp
+
+
+# msbuild uwp
+https://docs.microsoft.com/zh-cn/windows/uwp/packaging/auto-build-package-uwp-apps
