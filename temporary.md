@@ -57,3 +57,7 @@ https://github.com/nodejs/node-gyp
 
 # msbuild uwp
 https://docs.microsoft.com/zh-cn/windows/uwp/packaging/auto-build-package-uwp-apps
+
+# master vue
+https://www.vuemastery.com/courses/
+https://vueschool.io/courses
