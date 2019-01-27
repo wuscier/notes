@@ -61,3 +61,6 @@ https://docs.microsoft.com/zh-cn/windows/uwp/packaging/auto-build-package-uwp-ap
 # master vue
 https://www.vuemastery.com/courses/
 https://vueschool.io/courses
+
+# install chocolatey offline
+https://chocolatey.org/install#install-downloaded-nuget-package-from-powershell
